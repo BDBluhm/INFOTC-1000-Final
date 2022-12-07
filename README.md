@@ -2,6 +2,16 @@
 <html>
 <head>
 <link type="text/css" rel="stylesheet" href="https://github.com/BDBluhm/INFOTC-1000-Final/blob/main/mystyle.css">
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
 </head>
 <body>
  
