@@ -11,12 +11,13 @@
   <p>My name is Brian Bluhm. I am a 20 year old sophomore at University of Columbia Missouri, and this page is for my INFOTC 1000 Final.
   This is the homepage for my site, click the links below to travel to pages containing more information about me</p>
 
-Links:
-- [My Hobbies]()
-- [My Family]()
-- [Education]()
-- [Previous Work]()
-- [Future Plans]()
-
+<p>Links:</p>
+<ul>
+<li>[My Hobbies]()</li>
+<li>[My Family]()</li>
+<li>[Education]()</li>
+<li>[Previous Work]()</li>
+<li>[Future Plans]()</li>
+ </ul>
 </body>
 </html> 
