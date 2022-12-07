@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://github.com/BDBluhm/INFOTC-1000-Final/blob/main/mystyle.css">
+<link type="text/css rel="stylesheet" href="https://github.com/BDBluhm/INFOTC-1000-Final/blob/main/mystyle.css">
 </head>
 <body>
  
