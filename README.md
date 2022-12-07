@@ -1,7 +1,10 @@
  <!DOCTYPE html>
 <html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
 <body>
-
+ 
   <h1>A Personal Site on Brian Bluhm</h1>
   <p>INFOTC 1000 Final</p>
   <h2>Homepage & Overview</h2>
