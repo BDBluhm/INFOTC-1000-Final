@@ -12,9 +12,9 @@ I mostly spend my free time relaxing at home or in my dorm. I like to play video
 </p>
 
 <h2>My Favorite Things</h2>
-**A Few of My Favorite Movies:** *Alien*, *Shin Godzilla*, *The Lord of The Rings* Trilogy, *The Professor and the Madman*, and *Guardians of the Galaxy*
-**Favorite Videogames:** The *Monster Hunter* franchise, fighting games like *Street Fighter* and *Guilty Gear*, *Elden Ring*, and *Deep Rock Galactic*
-**Favorite Foods:** I love Lasagna, Cheeseburgers with bacon, spicy buffalo chicken, Mac and cheese, Paneer curry and brownies as my favorite sweet treat
+<b>A Few of My Favorite Movies:</b> <i>Alien, Shin Godzilla, The Lord of The Rings</i> Trilogy, <i>The Professor and the Madman,</i> and <i>Guardians of the Galaxy</i>
+  <b>Favorite Videogames:</b> The <i>Monster Hunter</i> franchise, fighting games like <i>Street Fighter</i> and <i>Guilty Gear</i>, <i>Elden Ring</i>, and <i>Deep Rock Galactic</i>
+<b>Favorite Foods:</b> I love Lasagna, Cheeseburgers with bacon, spicy buffalo chicken, Mac and cheese, Paneer curry and brownies as my favorite sweet treat
 
 </body>
 </html>
