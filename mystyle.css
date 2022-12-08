@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: CadetBlue;
 }
   
 h1 {
@@ -7,7 +7,7 @@ h1 {
 }
 
 table{
-  background-color: grey;
+  background-color: Coral;
   border-style: dotted;
-  border-color: blue;
+  border-color: CadetBlue;
 }
