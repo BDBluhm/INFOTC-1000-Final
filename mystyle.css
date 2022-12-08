@@ -6,7 +6,7 @@ h1, h2 {
   color: navy;
 }
 
-table, body{
+table, p{
   background-color: Coral;
   border-style: dotted;
   border-color: CadetBlue;
