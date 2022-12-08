@@ -14,11 +14,11 @@
 <p>Links:</p>
 <ul>
 <li><a href="https://github.com/BDBluhm/INFOTC-1000-Final/blob/main/Final%20Page%20%231.html"> My Hobbies</li>
-<li>[My Family]()</li>
-<li>[Education]()</li>
-<li>[Previous Work]()</li>
-<li>[Future Plans]()</li>
- </ul>
+<li><a href=" "> My Family</li>
+<li><a href=" "> Education</li>
+<li><a href=" "> Previous Work</li>
+<li><a href=" "> Future Plans</li>
+</ul>
  
 </body>
 </html> 
