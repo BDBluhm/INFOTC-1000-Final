@@ -1,13 +1,12 @@
 body {
-    background-color: gold;
+    background-color: lightblue;
 }
   
 h1 {
   color: navy;
-  margin-left: 20px;
 }
 
-#myDiv{
+table{
   background-color: grey;
   border-style: dotted;
   border-color: blue;
